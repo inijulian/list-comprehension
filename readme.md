@@ -23,11 +23,10 @@ Karena list comprehension juga ternary operator, maka dibutuhkan 3 operand dan 2
 <variable-target> = [<kembalian> for <item> in <iterable> if <kondisi>]
 ```
 
-## Parameter
-**variable-target** : variable untuk menampung list yang telah dibuat
-**kembalian**       : nilai yang akan dikembalikan sebagai elemen list. Dapat berupa nilai tetap, variable, maupun ekspresi untuk memproses nilai item
-**item**            : penampung nilai dari iterable pada tiap iterasi, nilai ini dapat digunakan sebagai ekspresi dalam kembalian
-**iterable**        : variable yang berisi kumpulan nilai (list, string, tuple, dll)
+- **variable-target** : variable untuk menampung list yang telah dibuat.
+- **kembalian**       : nilai yang akan dikembalikan sebagai elemen list. Dapat berupa nilai tetap, variable, maupun ekspresi untuk memproses nilai item.
+- **item**            : penampung nilai dari iterable pada tiap iterasi, nilai ini dapat digunakan sebagai ekspresi dalam kembalian.
+- **iterable**        : variable yang berisi kumpulan nilai (list, string, tuple, dll)
 
 ## [Contoh Penggunaan](./list_comprehension,py)
 ```python
@@ -41,6 +40,6 @@ squares = [x**2 for x in range(10)]
 ```
 
 ## Referensi
-https://www.geeksforgeeks.org/python-list-comprehension/
-https://www.programiz.com/python-programming/list-comprehension
-https://www.invasikode.com/list-comprehension-pada-pyhton
+- https://www.geeksforgeeks.org/python-list-comprehension/
+- https://www.programiz.com/python-programming/list-comprehension
+- https://www.invasikode.com/list-comprehension-pada-pyhton
