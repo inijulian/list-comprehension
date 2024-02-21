@@ -1,4 +1,4 @@
-# LIST COMPREHENSION
+# List Comprehension
 
 ## Definisi 
 List comprehensions adalah cara ringkas untuk membuat list di Python yang memungkinkan kita untuk membuat list dengan sintaks yang lebih sederhana dan mudah dibaca.
