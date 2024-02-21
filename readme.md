@@ -28,7 +28,7 @@ Karena list comprehension juga ternary operator, maka dibutuhkan 3 operand dan 2
 - **item**            : penampung nilai dari iterable pada tiap iterasi, nilai ini dapat digunakan sebagai ekspresi dalam kembalian.
 - **iterable**        : variable yang berisi kumpulan nilai (list, string, tuple, dll)
 
-## [Contoh Penggunaan](./list_comprehension,py)
+## [Contoh Penggunaan](./list_comprehension.py)
 ```python
 # Tanpa list comprehension
 squares = []
